@@ -7,3 +7,4 @@ let perubahan 6 baru
 let perubahan 7
 let perubahan 7 baru
 
+
