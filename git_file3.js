@@ -5,5 +5,5 @@ let perubahan 3
 let perubahan 5
 let perubahan 6 baru
 let perubahan 7
-let perubahan 8
-let perubahan 9
+let perubahan 7 baru
+
